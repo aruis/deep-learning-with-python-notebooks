@@ -1,3 +1,7 @@
+# 关于第一版
+
+这本书已经出了两版了，不过到目前为止，第二版还没有引进国内，而第一版是由人民邮电图灵引进的，已经是2018年的事了。但是书中的demo，几乎都还是可用的状态，所以我正在把相关的代码微调，以保证它们可以在`keras 2.6`下可以运行。相关代码改进会逐步提交到`first_edition`文件夹，具体可以查看提交记录。
+
 # Companion Jupyter notebooks for the book "Deep Learning with Python"
 
 This repository contains Jupyter notebooks implementing the code samples found in the book [Deep Learning with Python, 2nd Edition (Manning Publications)](https://www.manning.com/books/deep-learning-with-python-second-edition?a_aid=keras&a_bid=76564dff).
